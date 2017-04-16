@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_f79ba515cd2eb371666e9214c8502e4617a7323f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\9d1feca85e8dddedc8eea8ea6b179a0f874badf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_bceb2fd77cf5737a5da2d0816d48d7f3daa8f2b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\9d1feca85e8dddedc8eea8ea6b179a0f874badf4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bceb2fd77cf5737a5da2d0816d48d7f3daa8f2b4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_66c5ec9abe34cfac0bc475ec92ec3c5fa7e9b379.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\a8b08c36304ceb06519afd22344c18ddb29f3737\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_918209bc5e92759809e721e71b3756af4a1c4416.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\397b99a30b05d77a237f026d938cf54a6635c3f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_779a97c2191383cee807b1787bffc973b58fea37.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\397b99a30b05d77a237f026d938cf54a6635c3f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_779a97c2191383cee807b1787bffc973b58fea37\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\a8b08c36304ceb06519afd22344c18ddb29f3737\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_918209bc5e92759809e721e71b3756af4a1c4416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_66c5ec9abe34cfac0bc475ec92ec3c5fa7e9b379\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\d41d1589cb5d927fc2df573316b43ac173975834\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_a3f4b8c17904edc2815ee631307574d286b8bd4d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\d41d1589cb5d927fc2df573316b43ac173975834\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a3f4b8c17904edc2815ee631307574d286b8bd4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\982dad1f88044e72c8247a309235e0162574bd3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_1a280726312a28ec19ec73dddfbfd1c059347b24.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\982dad1f88044e72c8247a309235e0162574bd3b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1a280726312a28ec19ec73dddfbfd1c059347b24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\325d34f6b9382df53617257a0b882641c8dffc21\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d7843f38a5725e97e7f44e400be44638efc76d48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f396c8f6df8ecbe4e10ee733a808c9c13e09008a">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fd85e1e3caa11f57615e2b511c7c33f9e6c18955\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_dd0804e8011586fb8001f8a6f4b227fea2f148f2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\2c1696ef4627072dc4b0569a0102b284753ffa52\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_83fa5894002caa50e4f381b542be19bf688780c9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\2b7dc3aa21cba5b30c931da68b1d0331f858d2e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a6989b9172d98316a67915a22144be0980ca3f9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_dd0804e8011586fb8001f8a6f4b227fea2f148f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\325d34f6b9382df53617257a0b882641c8dffc21\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_d7843f38a5725e97e7f44e400be44638efc76d48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\2c1696ef4627072dc4b0569a0102b284753ffa52\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_83fa5894002caa50e4f381b542be19bf688780c9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\7a9c30638926dfee71fcba57569c6c5889d55796\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6e727629668674609f1cd3825861d50e722eb89b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\0c2e1668f485a994b62b96b04af169ef3075de99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_0a8e68767221a6cef04a33329ee9a422cae8e74f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\7a9c30638926dfee71fcba57569c6c5889d55796\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_6e727629668674609f1cd3825861d50e722eb89b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Sean\.android\build-cache\0c2e1668f485a994b62b96b04af169ef3075de99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a8e68767221a6cef04a33329ee9a422cae8e74f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Sean\.android\build-cache\2b7dc3aa21cba5b30c931da68b1d0331f858d2e7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Sean\Desktop\GeoQuiz\app\build\intermediates\pre-dexed\debug\classes_a6989b9172d98316a67915a22144be0980ca3f9b.jar" />
+    </item>
+
+</items>
